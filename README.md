@@ -104,6 +104,7 @@ http://localhost:8081
 
 # 📸 Screenshots
 
-_Add project screenshots here_
+<img width="1411" height="776" alt="Screenshot 2026-05-26 at 9 14 44 AM" src="https://github.com/user-attachments/assets/8c9a93eb-d2fd-44ee-b3db-94626d5a937f" />
+
 
 ---
